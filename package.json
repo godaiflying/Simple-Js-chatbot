@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.1",
+    "openai": "^4.26.0",
+    "readline-sync": "^1.4.10"
+  },
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Simple node js Chatbot powered by ChatGPT",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godaiflying/Simple-Js-chatbot.git"
+  },
+  "author": "John harry",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/godaiflying/Simple-Js-chatbot/issues"
+  },
+  "homepage": "https://github.com/godaiflying/Simple-Js-chatbot#readme"
+}
